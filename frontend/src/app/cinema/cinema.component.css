@@ -1,0 +1,22 @@
+.clickable {
+  cursor: pointer;
+}
+
+.numeroPlace_margin {
+  margin: 2px;
+  width: 40px;
+}
+
+.activeDate {
+  background-color: navy;
+  color: #fff;
+  font-weight: bold;
+}
+
+.activeCity {
+  background-color: lightslategrey;
+  color: white;
+  font-weight: bold;
+}
+
+
